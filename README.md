@@ -11,3 +11,8 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 21%)
 Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 56%)
   * Belajar Git Branches.
   * Kolaborasi dengan Tim.
+
+**23 Juli 2021**  
+Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 100%)
+  * Studi Kasus Kolaborasi dengan Tim.
+  * GitHub sebagai Portofolio.
